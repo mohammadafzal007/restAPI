@@ -1,0 +1,92 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 1154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 204,
+        "company": "apple"
+    },
+    {
+        "name": "watch10",
+        "price": 304,
+        "company": "apple"
+    },
+    {
+        "name": "s20",
+        "price": 404,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone11",
+        "price": 11454,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch67",
+        "price": 11204,
+        "company": "apple"
+    },
+    {
+        "name": "ipad",
+        "price": 3304,
+        "company": "apple"
+    },
+    {
+        "name": "s25",
+        "price": 8404,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone10",
+        "price": 1154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "ipad45",
+        "price": 45204,
+        "company": "apple"
+    },
+    {
+        "name": "iphone3s",
+        "price": 31204,
+        "company": "apple"
+    },
+    {
+        "name": "samsung z2",
+        "price": 1504,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone4",
+        "price": 11154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "TV",
+        "price": 12204,
+        "company": "apple"
+    },
+    {
+        "name": "Digital watch",
+        "price": 45304,
+        "company": "apple"
+    },
+    {
+        "name": "s29",
+        "price": 556404,
+        "company": "samsung"
+    }
+]
